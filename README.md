@@ -23,7 +23,7 @@ The symbol `[PLEASE_FILL]` is used in some of the questions.
 * Do I have to pass KYC to invest?
 * What kind of documentation should I prepare beforehand to the KYC process?
 * If I don't pass the KYC process, will I receive my tokens anyway?
-* When do I have to do the KYC? (Before, after?)
+* When do I have to do the KYC? Before? After?
 * Who is your KYC provider?
 * How do I know if your ICO is worth investing in?
 * Is there any bounty program?
@@ -67,8 +67,7 @@ You can check how to contribute [here](https://ICOnator.io).
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific langu
-   governing permissions and
+   See the License for the specific language governing permissions and
    limitations under the License.
    
 ```
