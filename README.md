@@ -23,6 +23,8 @@ The symbol `[PLEASE_FILL]` is used in some of the questions.
 * Do I have to pass KYC to invest?
 * What kind of documentation should I prepare beforehand to the KYC process?
 * If I don't pass the KYC process, will I receive my tokens anyway?
+* When do I have to do the KYC? Before? After?
+* Who is your KYC provider?
 * How do I know if your ICO is worth investing in?
 * Is there any bounty program?
 * What is the hardcap and what is the total token supply?
@@ -40,6 +42,9 @@ The symbol `[PLEASE_FILL]` is used in some of the questions.
 * What will happen with unsold tokens? 
 * In which stage of development the project is, and what is the future roadmap?
 * I'm interested in working on the `[PLEASE_FILL]` project, how can I contribute?
+* Which countries can participate in the ICO?
+* Can I participate if I hold a US green card?
+* What is the minimum age for participation?
 
 ## Contribute
 
